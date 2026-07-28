@@ -1,5 +1,7 @@
 Data 621 Homework #5
 
+Data from [Wine-training-data] (https://github.com/tylerbaker01/Wine-training-data)
+
 In this homework assignment, you will explore, analyze and model a data set containing information on
 approximately 12,000 commercially available wines. The variables are mostly related to the chemical properties of
 the wine being sold. The response variable is the number of sample cases of wine that were purchased by wine
